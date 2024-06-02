@@ -52,7 +52,7 @@ def task_5(numbers: list):
     return count
 
 
-print(task_5([-3, 0, 3, 3, 5]))
+print(task_5([-3, 0, -3, 3, 5]))
 
 
 def task_6(years, months: int):
